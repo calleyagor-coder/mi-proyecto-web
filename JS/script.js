@@ -1,2 +1,1 @@
-console.log("PROYECTO CONTECTADO A GITHUB");
-const form = document.getElementById("form");
+console.log("Proyecto conectado con GitHub");
